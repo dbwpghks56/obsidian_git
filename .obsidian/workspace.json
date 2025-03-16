@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4762e3c846bda47",
+        "id": "6a0a37d43c0598e8",
         "type": "tabs",
         "children": [
           {
-            "id": "c43a051c8403356d",
+            "id": "cab7b380579c5dda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "새 탭"
             }
           }
         ]
@@ -163,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,12 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a255ad032717623",
+  "active": "cab7b380579c5dda",
   "lastOpenFiles": [
+    "README.md",
     "Private/test.md",
     "Modu/test.md",
     "Coding/test.md",
-    "README.md",
     "무제.md",
     "Private",
     "Modu",
