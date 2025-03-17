@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a0a37d43c0598e8",
+        "id": "fd402e0f0bf15d90",
         "type": "tabs",
         "children": [
           {
-            "id": "cab7b380579c5dda",
+            "id": "39e007397d5af29e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Modu/daily/2주차/2025-03-17.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-03-17"
             }
           }
         ]
@@ -172,11 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cab7b380579c5dda",
+  "active": "39e007397d5af29e",
   "lastOpenFiles": [
+    "Modu/daily/1주차/2025-03-10.md",
+    "Modu/daily/2주차/2025-03-17.md",
+    "Modu/daily/2주차",
+    "Modu/daily/1주차/2025-03-11.md",
+    "Modu/daily/1주차/2025-03-14.md",
+    "Modu/daily/1주차",
+    "Modu/daily/1주차/2025-03-12 ( Git branch ).md",
+    "Modu/daily/1주차/2025-03-13.md",
+    "Modu/daily/1주차/2025-03-12 ( Dart ).md",
+    "Modu/test.md",
+    "Modu/daily",
     "README.md",
     "Private/test.md",
-    "Modu/test.md",
     "Coding/test.md",
     "무제.md",
     "Private",
