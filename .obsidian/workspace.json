@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd402e0f0bf15d90",
+        "id": "4576ae8f64863833",
         "type": "tabs",
         "children": [
           {
-            "id": "39e007397d5af29e",
+            "id": "3451860d965be1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,14 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a255ad032717623",
+  "active": "3451860d965be1f8",
   "lastOpenFiles": [
+    "Private/test.md",
+    "Modu/daily/2주차/2025-03-17.md",
+    "README.md",
     "Coding/무제",
     "Coding/Nest",
     "Coding/Spring",
     "Coding/Flutter",
     "Coding/test.md",
-    "Modu/daily/2주차/2025-03-17.md",
     "Modu/daily/1주차/2025-03-10.md",
     "Modu/daily/2주차",
     "Modu/daily/1주차/2025-03-11.md",
@@ -194,8 +196,6 @@
     "Modu/daily/1주차/2025-03-12 ( Dart ).md",
     "Modu/test.md",
     "Modu/daily",
-    "README.md",
-    "Private/test.md",
     "무제.md",
     "Private",
     "Modu",
