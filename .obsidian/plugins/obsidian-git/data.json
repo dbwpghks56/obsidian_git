@@ -1,7 +1,7 @@
 {
   "commitMessage": "note backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 1,
+  "autoSaveInterval": 0,
   "autoPushInterval": 5,
   "autoPullInterval": 1,
   "autoPullOnBoot": false,
