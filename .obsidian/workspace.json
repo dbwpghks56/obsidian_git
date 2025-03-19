@@ -159,6 +159,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f622fa38a9ba8949",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 4
@@ -179,7 +189,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4fd514eae84aebfd",
+  "active": "3451860d965be1f8",
   "lastOpenFiles": [
     "Modu/daily/2주차/2025-03-18.md",
     "Modu/daily/2주차/2025-03-19.md",
