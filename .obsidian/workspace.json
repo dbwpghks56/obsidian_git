@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modu/daily/3주차/2025-03-24.md",
+                "file": "📝 Modu/daily/3주차/2025-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-24"
+              "title": "2025-03-25"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modu/daily/3주차/2025-03-24.md",
+                "file": "📝 Modu/daily/3주차/2025-03-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-24 의 개요"
+              "title": "2025-03-25 의 개요"
             }
           },
           {
@@ -189,36 +189,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4fd514eae84aebfd",
+  "active": "1a255ad032717623",
   "lastOpenFiles": [
-    "Modu/daily/3주차/2025-03-24.md",
-    "Modu/daily/3주차",
-    "Modu/daily/2주차/2025-03-21.md",
-    "Modu/daily/2주차/2025-03-20.md",
     "Pasted image 20250320112542.png",
-    "Modu/daily/2주차/2025-03-19.md",
-    "Modu/daily/2주차/2025-03-18.md",
+    "📝 Modu/daily/3주차/2025-03-25.md",
+    "📝 Modu/daily/3주차/2025-03-24.md",
+    "📝 Modu/daily/3주차",
+    "📝 Modu/daily/2주차/2025-03-21.md",
+    "📝 Modu/daily/2주차/2025-03-20.md",
+    "📝 Modu/daily/2주차/2025-03-19.md",
+    "📝 Modu/daily/2주차/2025-03-18.md",
     "무제.md",
-    "Modu/daily/2주차/2025-03-17.md",
+    "📝 Modu/daily/2주차/2025-03-17.md",
     "2025-03-17.md",
-    "Private/test.md",
+    "🙋🏻‍♂️ Private/test.md",
     "README.md",
     "Coding/무제",
-    "Coding/Nest",
-    "Coding/Spring",
-    "Coding/Flutter",
+    "👨🏻‍💻 Coding/Nest",
+    "👨🏻‍💻 Coding/Spring",
+    "👨🏻‍💻 Coding/Flutter",
     "Coding/test.md",
-    "Modu/daily/1주차/2025-03-10.md",
-    "Modu/daily/2주차",
-    "Modu/daily/1주차/2025-03-11.md",
-    "Modu/daily/1주차/2025-03-14.md",
-    "Modu/daily/1주차",
-    "Modu/daily/1주차/2025-03-12 ( Git branch ).md",
-    "Modu/daily/1주차/2025-03-13.md",
-    "Modu/daily/1주차/2025-03-12 ( Dart ).md",
+    "📝 Modu/daily/1주차/2025-03-10.md",
+    "📝 Modu/daily/2주차",
+    "📝 Modu/daily/1주차/2025-03-11.md",
+    "📝 Modu/daily/1주차/2025-03-14.md",
+    "📝 Modu/daily/1주차",
+    "📝 Modu/daily/1주차/2025-03-12 ( Git branch ).md",
+    "📝 Modu/daily/1주차/2025-03-13.md",
+    "📝 Modu/daily/1주차/2025-03-12 ( Dart ).md",
     "Modu/test.md",
-    "Modu/daily",
-    "Private",
-    "Modu"
+    "📝 Modu/daily",
+    "🙋🏻‍♂️ Private",
+    "📝 Modu"
   ]
 }
