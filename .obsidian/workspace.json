@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f45b571678cb8f3",
+        "id": "cd05841957e2592f",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5072ef4a267e09",
+            "id": "8b0b187407b3aac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Modu/daily/3주차/2025-03-25.md",
+                "file": "📝 Modu/daily/3주차/2025-03-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-25"
+              "title": "2025-03-26"
             }
           }
         ]
@@ -189,9 +189,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "4fd514eae84aebfd",
+  "active": "8b0b187407b3aac1",
   "lastOpenFiles": [
     "Pasted image 20250320112542.png",
+    "📝 Modu/daily/3주차/2025-03-26.md",
     "📝 Modu/daily/3주차/2025-03-25.md",
     "📝 Modu/daily/3주차/2025-03-24.md",
     "📝 Modu/daily/3주차",
