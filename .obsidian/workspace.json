@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd05841957e2592f",
+        "id": "8a28c28f1b712fec",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0b187407b3aac1",
+            "id": "1939d22c792f4112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Modu/daily/3주차/2025-03-27.md",
+                "file": "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-27"
+              "title": "🎧 PlayList 공유 ( 기업 개인 )"
             }
           }
         ]
@@ -189,10 +189,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8b0b187407b3aac1",
+  "active": "1939d22c792f4112",
   "lastOpenFiles": [
-    "🙋🏻‍♂️ Private/test.md",
+    "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
+    "📝 Modu/daily/4주차",
     "📝 Modu/daily/3주차/2025-03-27.md",
+    "🙋🏻‍♂️ Private/test.md",
     "💡 Idea/📱 App/🧾 레시피 공유 ( 자취인 위주 ).md",
     "📝 Modu/daily/3주차/2025-03-26.md",
     "💡 Idea/🎮 Game",
@@ -217,7 +219,6 @@
     "👨🏻‍💻 Coding/🍃 Flutter",
     "Coding/test.md",
     "📝 Modu/daily/1주차/2025-03-10.md",
-    "📝 Modu/daily/2주차",
     "📝 Modu/daily/1주차/2025-03-11.md",
     "📝 Modu/daily/1주차/2025-03-14.md",
     "📝 Modu/daily/1주차/2025-03-12 ( Git branch ).md",
