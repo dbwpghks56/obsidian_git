@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Modu/daily/3주차/2025-03-26.md",
+                "file": "📝 Modu/daily/4주차/2025-03-31.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-26 의 개요"
+              "title": "2025-03-31 의 개요"
             }
           },
           {
@@ -189,7 +189,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1939d22c792f4112",
+  "active": "4fd514eae84aebfd",
   "lastOpenFiles": [
     "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
     "📝 Modu/daily/4주차/2025-03-31.md",
