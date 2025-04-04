@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a28c28f1b712fec",
+        "id": "a44ab983250af293",
         "type": "tabs",
         "children": [
           {
-            "id": "1939d22c792f4112",
+            "id": "b527046df2230672",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,11 +189,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1939d22c792f4112",
+  "active": "b527046df2230672",
   "lastOpenFiles": [
-    "💡 Idea/📱 App/🧾 레시피 공유 ( 자취인 위주 ).md",
     "💡 Idea/📱 App/🎶 외국어 가사 번역·번안 공유 커뮤니티 플랫폼.md",
     "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
+    "💡 Idea/📱 App/🧾 레시피 공유 ( 자취인 위주 ).md",
     "📝 Modu/daily/4주차/2025-04-03.md",
     "📝 Modu/daily/4주차/2025-04-01.md",
     "📝 Modu/daily/4주차/2025-03-31.md",
