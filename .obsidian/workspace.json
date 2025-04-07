@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a44ab983250af293",
+        "id": "f0339cf12891ed6c",
         "type": "tabs",
         "children": [
           {
-            "id": "b527046df2230672",
+            "id": "03cfc75c2b1c6fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
+                "file": "💡 Idea/📱 App/📺 Watch Party App (워치파티) 상세 기획서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎧 PlayList 공유 ( 기업 개인 )"
-            }
-          },
-          {
-            "id": "7ddd19bb406acd11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📝 Modu/daily/4주차/2025-04-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-04"
+              "title": "📺 Watch Party App (워치파티) 상세 기획서"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,17 +189,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ddd19bb406acd11",
+  "active": "03cfc75c2b1c6fdf",
   "lastOpenFiles": [
+    "📝 Modu/daily/5주차/2025-04-07.md",
+    "💡 Idea/📱 App/📺 Watch Party App (워치파티) 상세 기획서.md",
+    "📝 Modu/daily/4주차/2025-03-31.md",
+    "📝 Modu/daily/4주차/2025-04-04.md",
+    "📝 Modu/daily/5주차",
     "Pasted image 20250404161805.png",
     "📝 Modu/daily/4주차/2025-04-03.md",
-    "📝 Modu/daily/4주차/2025-04-04.md",
     "💡 Idea/📱 App/🎧 PlayList 공유 ( 기업 개인 ).md",
     "📝 Modu/daily/4주차/무제.md",
     "무제",
     "💡 Idea/📱 App/🧾 레시피 공유 ( 자취인 위주 ).md",
     "💡 Idea/📱 App/🎶 외국어 가사 번역·번안 공유 커뮤니티 플랫폼.md",
-    "📝 Modu/daily/4주차/2025-03-31.md",
     "Pasted image 20250320112542.png",
     "📝 Modu/daily/4주차/2025-04-01.md",
     "📝 Modu/daily/4주차",
@@ -237,11 +225,9 @@
     "README.md",
     "Coding/무제",
     "👨🏻‍💻 Coding/🐈 Nest",
-    "👨🏻‍💻 Coding/🌱 Spring",
     "Coding/test.md",
     "📝 Modu/daily/1주차/2025-03-10.md",
     "📝 Modu/daily/1주차/2025-03-11.md",
-    "📝 Modu/daily/1주차/2025-03-14.md",
-    "📝 Modu/daily/1주차/2025-03-12 ( Git branch ).md"
+    "📝 Modu/daily/1주차/2025-03-14.md"
   ]
 }
